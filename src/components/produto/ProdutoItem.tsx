@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import NotaReview from '../shared/NotaReview'
-import { Moeda, Produto } from '@/core'
+import { Moeda, Produto } from '@gstore/core'
 import { IconShoppingCartPlus } from '@tabler/icons-react'
 
 export interface ProdutoItemProps {
